@@ -1,3 +1,0 @@
-# FLAGS
-
-- `ATHACKCTF{0kN0wH4ckTh3ATM!!}`
