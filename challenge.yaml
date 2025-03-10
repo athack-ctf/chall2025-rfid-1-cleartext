@@ -1,0 +1,21 @@
+name: "RFID 1 - Cleartext"
+author: "Hugo"
+category: <Hardware>
+description: |
+    There must something on that card...
+    
+value: 400
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{0kN0wH4ckTh3ATM!!}"
+    data: "case_insensitive"
+
+tags:
+    - interac
+
+state: visible
+
+version: "0.1"
