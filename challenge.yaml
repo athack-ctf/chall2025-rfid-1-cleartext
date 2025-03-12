@@ -1,6 +1,6 @@
 name: "RFID 1 - Cleartext"
 author: "Hugo"
-category: <Hardware>
+category: Hardware
 description: |
     There must something on that card...
     
@@ -14,7 +14,7 @@ flags:
     data: "case_insensitive"
 
 tags:
-    - interac
+    - sponsored
 
 state: visible
 
